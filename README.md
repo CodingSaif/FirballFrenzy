@@ -12,16 +12,22 @@ Device: PC
 
 Collect ice, Dodge rocks, Enjoy Light and Easy Gameplay.
 
+---------------------/*--------------------/*-----------------------
+
+
 _**KEY FEATURE:**_
 
 **Beautiful Scenes, Aesthetic Gameplay, Easy to play and calming.**
 
+---------------------/*--------------------/*-----------------------
 
 _**DESIGN DOCUMENT**_
 **Design Guidelines**
 ● Animation is hard to produce without any special software.
 ● The particle system doesn't work if the parent object is destroyed
 
+
+---------------------/*--------------------/*-----------------------
 
 **Game Design Definitions**
 The Player Begins at a starting platform and has to be controlled using left and right keys. The
@@ -32,13 +38,20 @@ Ice is a healer and gives points if you collect it.
 Player has to collect as many ice as they can to gain maximum points. Game gets over once the
 player dies
 
+---------------------/*--------------------/*-----------------------
 
 **Player Definition**
 
 The Size: The ball will have 3 sizes small, medium and large. The Size increases if you collect
 ice, the size decreases if you crash onto a rock or a fireball.
-Player Rewards (power-ups and pick-ups)
+**Player Rewards (power-ups and pick-ups)**
+
 If you collect Ice your Size (i.e health Increases) You also increase your points if you pick up ice.
-User Interface (UI)
+
+
+**User Interface (UI)**
 There’s a Start Button in the Start Screen with the Game art.
 The user can input horizontal buttons for Controlling the ball to dodge the rocks and fire balls
+
+
+
