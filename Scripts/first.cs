@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+
+//This Script is for loading the Game Scnee and transition from the main Menu
 public class first : MonoBehaviour
 {   
     public object button;
