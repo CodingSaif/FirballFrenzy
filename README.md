@@ -59,9 +59,22 @@ If you collect Ice your Size (i.e health Increases) You also increase your point
 There’s a Start Button in the Start Screen with the Game art.
 The user can input horizontal buttons for Controlling the ball to dodge the rocks and fire balls
 
+---------------------/*--------------------/*-----------------------
+
+**SCREENSHOTS**
+
+![1635785155803](https://user-images.githubusercontent.com/86789605/144977396-6a88d179-90e6-4acb-ad4a-e0f8900d1a01.jpg)
+![1635785153545](https://user-images.githubusercontent.com/86789605/144977402-53f878ba-1ad7-4690-86ef-9d31ab5212b2.jpg)
+![1635785154788](https://user-images.githubusercontent.com/86789605/144977404-5dff486b-f69d-45b1-97ec-744cc4d883ab.jpg)
+![1635785155572](https://user-images.githubusercontent.com/86789605/144977411-58a7252b-8cd4-4450-bd4b-4c495401397d.jpg)
+
+
+
 
 
 
 **DOWNLOAD THE FULL UNITY PROJECT **
 
 https://drive.google.com/file/d/1D8DVj6ktIUdo3eav6qr9t_NAH7Gl8fbe/view?usp=sharing 
+
+
